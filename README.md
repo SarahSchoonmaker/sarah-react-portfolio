@@ -1,6 +1,6 @@
 # Sarah's Portfolio
 
-## Tecnologias usadas:
+## Technologies Used:
 - React
 - Typescript
 - Styled Components
