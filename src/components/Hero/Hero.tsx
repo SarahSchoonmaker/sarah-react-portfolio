@@ -13,11 +13,11 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Fullstack Developer</h3>
+          <h3>Software Developer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Skilled Full-Stack Developer using Python, Django, React, 
-          TypeScript, PostgreSQL, AWS, Pytest, Docker, 
+          <p className="small-resume">Skilled Software Developer and Site Reliability Engineer using Python, Django, React, 
+          TypeScript, PostgreSQL, AWS, Pytest, Docker, Linux, Bash/Shell Scripting,
           Jenkins, and more to build highly functional and beautiful web applications.</p>
         </ScrollAnimation>
 
