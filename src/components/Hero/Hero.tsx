@@ -16,7 +16,7 @@ export function Hero(){
           <h3>Software Developer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Skilled Software Developer and Site Reliability Engineer using 
+          <p className="small-resume">Skilled Software Developer using 
           Python, Django, React, TypeScript, PostgreSQL, AWS, Pytest/Cypress, Docker, Linux, 
           Bash/Shell Scripting, Jenkins, and more to build highly functional, scalable, and beautiful web applications.</p>
         </ScrollAnimation>
