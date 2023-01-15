@@ -45,7 +45,7 @@ export const Container = styled.section`
     .hero-text{
 
       h1{
-        font-size: 5rem;
+        font-size: 4rem;
       }
     }
     
@@ -59,5 +59,11 @@ export const Container = styled.section`
   }
   @media(max-width: 480px){
     margin-top: 35%;
+    .hero-text{
+
+      h1{
+        font-size: 3rem;
+      }
+    }
   }
 `
