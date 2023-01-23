@@ -16,6 +16,7 @@ export const Container = styled.section`
     grid-template-rows: auto;
     gap: 2rem;
     padding: 1rem;
+    margin-bottom:50px;
     overflow: hidden;
 
     .project{
@@ -31,6 +32,8 @@ export const Container = styled.section`
         transform: translateY(-5px);
         background-color: var(--pink);
       }
+
+      
 
       header{
         display: flex;
