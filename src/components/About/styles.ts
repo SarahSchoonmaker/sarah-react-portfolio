@@ -75,4 +75,19 @@ export const Container = styled.section`
     
   }
 
+  @media (min-width: 340px){
+    .projects{
+      grid-template-columns: 1fr 1fr;
+    }
+    h3{
+      font-size:1.5rem;
+    }
+    p{
+      font-size: 1.3rem;
+    }
+    
+    
+    
+  }
+
 `

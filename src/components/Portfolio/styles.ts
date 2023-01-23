@@ -93,4 +93,19 @@ export const Container = styled.section`
       grid-template-columns: 1fr;
     }
   }
+  @media (max-width: 400px){
+    .projects{
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  @media (min-width: 340px){
+    .projects{
+      grid-template-columns: 1fr 1fr;
+      padding: 1rem 1rem;
+    }
+    h3{
+      font-size:1.5rem;
+    }
+   
+}
 `
