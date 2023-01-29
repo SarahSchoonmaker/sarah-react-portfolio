@@ -13,7 +13,7 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Software Developer</h3>
+          <h3>Data Analyst & Software Developer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
           <p className="small-resume">Software Developer with experience building and maintaining large scale 
@@ -23,11 +23,7 @@ export function Hero(){
           Docker, Jenkins, and more to build highly functional, scalable, and beautiful web applications. </p>
         </ScrollAnimation>
 
-          {/* <ScrollAnimation animateIn="fadeInUp" delay={0.8*1000}>
-            <BrowserRouter>
-              <NavHashLink smooth to="#contato" className="button">Contact</NavHashLink>
-            </BrowserRouter>
-          </ScrollAnimation> */}
+      
       </div>
     
     </Container>
