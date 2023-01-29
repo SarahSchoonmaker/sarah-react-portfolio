@@ -55,7 +55,7 @@ export const Container = styled.section`
     .contacts{
       flex-direction: column;
       div{
-        width: 100%;
+        width: 220px;
         flex-direction: column;
       }
     }

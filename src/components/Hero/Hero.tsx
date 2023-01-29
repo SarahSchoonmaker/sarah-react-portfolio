@@ -16,16 +16,18 @@ export function Hero(){
           <h3>Software Developer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Skilled Software Developer using 
-          Python, Django, React, TypeScript, PostgreSQL, AWS, Pytest/Cypress, Docker, Linux, 
-          Bash/Shell Scripting, Jenkins, and more to build highly functional, scalable, and beautiful web applications.</p>
+          <p className="small-resume">Software Developer with experience building and maintaining large scale 
+          e-commerce websites processing millions of requests, integrating subscription payments, and Google Analytics. I also
+          lead marketing teams in analyzing marketing data and developing strategies. Technologies frequently used include:
+          Python, Django, JavaScript, React, TypeScript, Wordpress, PHP, HTML/CSS, PostgreSQL, AWS, Unit Testing with Pytest or Cypress, 
+          Docker, Jenkins, and more to build highly functional, scalable, and beautiful web applications. </p>
         </ScrollAnimation>
 
-          <ScrollAnimation animateIn="fadeInUp" delay={0.8*1000}>
+          {/* <ScrollAnimation animateIn="fadeInUp" delay={0.8*1000}>
             <BrowserRouter>
               <NavHashLink smooth to="#contato" className="button">Contact</NavHashLink>
             </BrowserRouter>
-          </ScrollAnimation>
+          </ScrollAnimation> */}
       </div>
     
     </Container>

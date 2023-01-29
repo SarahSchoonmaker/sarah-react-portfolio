@@ -55,16 +55,16 @@ export const Container = styled.section`
    }
   }
 
-  @media only screen and (max-width: 480px) {
-    .about-image {
-      max-width: 100%;
-      margin-top: 4rem;
-    }
-  }
+  // @media only screen and (max-width: 480px) {
+  //   .about-image {
+  //     max-width: 100%;
+  //     margin-top: 4rem;
+  //   }
+  // }
 
   @media (max-width: 960px){
     display: block;
-    text-align: center;
+   
 
     .about-image{
       display: flex;
@@ -75,13 +75,14 @@ export const Container = styled.section`
     
   }
 
-  @media (min-width: 340px){
+  @media (max-width: 375px){
     .projects{
       grid-template-columns: 1fr 1fr;
     }
     h3{
       font-size:1.5rem;
     }
+    
     p{
       font-size: 1.3rem;
     }

@@ -22,16 +22,16 @@ export function Portfolio(){
           </div>
           </header>
           <div className="body">
-            <h3>Django E-Commerce Store</h3>
-            <p>E-Commerce store using Django and React with PayPal/Credit Card integration, 
+            <h3>E-Commerce Store with JavaScript, React, and Python</h3>
+            <p>E-Commerce store using Django, JavaScript, and React with PayPal/Credit Card integration, 
             user profiles, admin user management product reviews, and a shopping cart.
              <a href="https://www.buildproshop.com/"> Demo</a>. 
             </p>
           </div>
           <footer>
             <ul className="tech-list">
-              <li>Django</li>
-              <li>React</li>
+              <li>Python/Django</li>
+              <li>JavaScript/React</li>
               <li>Redux</li>
               <li>PostgreSQL</li>
             </ul>
@@ -51,15 +51,16 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Django Real Estate Company</h3>
+              <h3>Real Estate Company Website with Python/
+                Django</h3>
               <p>Displays listings, create, edit, and delete listings, realtors, and assign
-              realtors listings.
-               {/*<a href="https://www.buildproshop.com/"> Demo</a>.*/}
+              realtors listings.  <a href="https://github.com/SarahSchoonmaker/Django-real-estate.git"> View Code</a>. 
+              
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Django</li>
+                <li>Python/Django</li>
                 <li>PostgreSQL</li>
                 
               </ul>
@@ -79,16 +80,17 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Jenkins, Docker, and Django CI/CD Pipeline</h3>
-              <p>CI/CD pipeline for polling application.
-               {/*<a href="https://www.buildproshop.com/"> Demo</a>.*/}
+              <h3>Continuous Integration/
+                Continuous Deployment Pipeline with Jenkins and Docker</h3>
+              <p>CI/CD pipeline for voting application.
+              <a href="https://github.com/SarahSchoonmaker/jenkins-docker-django.git"> View Code</a>.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
                 <li>Jenkins</li>
                 <li>Docker</li>
-                <li>Django</li>
+                <li>Python/Django</li>
               </ul>
             </footer>
           </div>
@@ -106,15 +108,15 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Django Multi-vendor Restaurant Marketplace with location based search of
-              nearby restaurants.</h3>
+              <h3>Multi-vendor Restaurant Marketplace with location based search of
+              nearby restaurants.</h3> 
               <p>
-                {/*<a href="https://www.buildproshop.com/"> Demo</a>.*/}
+              <a href="https://github.com/SarahSchoonmaker/django-restaurant-location-search.git"> View Code</a>.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Django</li>
+                <li>Python/Django</li>
                 <li>PostgreSQL</li>
                 <li>Google Autocomplete</li>
                 <li>Location search</li>
@@ -123,6 +125,91 @@ export function Portfolio(){
           </div>
         </ScrollAnimation>
 
+      <h2>Data Analyst Projects</h2>
+      <div className="projects">
+
+      <ScrollAnimation animateIn="flipInX">
+        <div className="project">
+          <header>
+          <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+          <div className="project-links">
+            <a href="https://github.com/SarahSchoonmaker/rsi-trading.git" target="_blank" rel="noreferrer">
+              <img src={githubIcon} alt="GitHub" />
+            </a>
+          </div>
+          </header>
+          <div className="body">
+            <h3>RSI Trading Strategy Using Python</h3>
+            <p>Using Python and Python libraries to indicate overbought and oversold stocks
+              with a chart displaying the results.  <a href="https://github.com/SarahSchoonmaker/rsi-trading.git"> View Code</a>.
+              
+            </p>
+          </div>
+          <footer>
+            <ul className="tech-list">
+              <li>Python</li>
+              <li>Jupyter Notebook</li>
+             
+            </ul>
+          </footer>
+        </div>
+      </ScrollAnimation>
+
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+            <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+            <div className="project-links">
+              <a href="https://github.com/SarahSchoonmaker/lendingclub-data.git" target="_blank" rel="noreferrer">
+                <img src={githubIcon} alt="GitHub" />
+              </a>
+              
+            </div>
+            </header>
+            <div className="body">
+              <h3>Anaysis of LendingClub Loan Data</h3>
+              <p>Cleaning and classifying LendingClub data to determine the probability of loan default. 
+                    <a href="https://github.com/SarahSchoonmaker/lendingclub-data.git">  View Code</a>.
+              
+              </p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>Python</li>
+                <li>Data Analysis</li>
+                
+              </ul>
+            </footer>
+          </div>
+        </ScrollAnimation>
+
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+            <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+            <div className="project-links">
+              <a href="https://github.com/SarahSchoonmaker/credit-risk-python.git" target="_blank" rel="noreferrer">
+                <img src={githubIcon} alt="GitHub" />
+              </a>
+              
+            </div>
+            </header>
+            <div className="body">
+              <h3>Credit Risk Analysis</h3>
+              <p>Credit risk model using Python. <a href="https://github.com/SarahSchoonmaker/credit-risk-python.git"> View Code</a>.
+              
+              </p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>Python</li>
+                <li>Credit Model Analysis</li>
+                
+              </ul>
+            </footer>
+          </div>
+        </ScrollAnimation>
+        </div>
 
 
       </div>

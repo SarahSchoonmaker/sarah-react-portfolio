@@ -20,7 +20,7 @@ export function About(){
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
           <p>Software Developer pursuing an MS in Computer Science at the Stevens Insitute of Technology. In my free time, 
             I enjoy the gym, watching ice hockey (Go Rangers), studying the financial markets, 
-            pursuing offensive security certifications (OSCP and OSWP), and finding new recipes to cook. 
+            pursuing web security certifications (OSCP and OSWP), and finding new recipes to cook. 
             NY native currently residing in Palm Beach, FL.  
           </p>
         </ScrollAnimation>
