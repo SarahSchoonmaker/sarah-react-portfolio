@@ -16,9 +16,9 @@ export function Hero(){
           <h3>Software Developer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Software Developer with experience building and maintaining large scale 
+          <p className="small-resume">Full-stack Software Developer building and maintaining large scale 
           e-commerce websites processing millions of requests, integrating subscription payments, and Google Analytics. I also
-          lead marketing teams in analyzing marketing data and developing strategies. Technologies frequently used include:
+          analyze data for marketing teams to develop campaign new strategies. Technologies frequently used include:
           Python, Django, JavaScript, React, TypeScript, Wordpress, PHP, HTML/CSS/Sass, PostgreSQL, AWS, Unit Testing with Pytest or Cypress, 
           Docker, Jenkins, and more to build highly functional, scalable, and beautiful web applications. </p>
         </ScrollAnimation>
