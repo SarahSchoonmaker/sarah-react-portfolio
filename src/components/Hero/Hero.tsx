@@ -19,7 +19,7 @@ export function Hero(){
           <p className="small-resume">Software Developer with experience building and maintaining large scale 
           e-commerce websites processing millions of requests, integrating subscription payments, and Google Analytics. I also
           lead marketing teams in analyzing marketing data and developing strategies. Technologies frequently used include:
-          Python, Django, JavaScript, React, TypeScript, Wordpress, PHP, HTML/CSS, PostgreSQL, AWS, Unit Testing with Pytest or Cypress, 
+          Python, Django, JavaScript, React, TypeScript, Wordpress, PHP, HTML/CSS/Sass, PostgreSQL, AWS, Unit Testing with Pytest or Cypress, 
           Docker, Jenkins, and more to build highly functional, scalable, and beautiful web applications. </p>
         </ScrollAnimation>
 
