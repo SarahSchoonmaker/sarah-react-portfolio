@@ -253,7 +253,7 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Anaysis of LendingClub Loan Data</h3>
+              <h3>Anaysis of Lending Club Loan Data</h3>
               <p>Cleaning and classifying LendingClub data to determine the probability of loan default. 
                     <a href="https://github.com/SarahSchoonmaker/lendingclub-data.git">  View Code</a>.
               
@@ -282,7 +282,7 @@ export function Portfolio(){
             </header>
             <div className="body">
               <h3>Sales and Customer Churn Prediction</h3>
-              <p>This Github Repository hosts several projects covering sales prediction and customer churn rates. 
+              <p>This Github Repository hosts several projects estimating sales and customer churn rates. 
                  <a href="https://github.com/SarahSchoonmaker/Data-Analytics-Projects"> View Code</a>.
               
               </p>
@@ -290,7 +290,7 @@ export function Portfolio(){
             <footer>
               <ul className="tech-list">
                 <li>Python</li>
-                <li>Credit Model Analysis</li>
+                <li>Predictive Models</li>
                 
               </ul>
             </footer>
