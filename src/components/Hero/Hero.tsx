@@ -13,14 +13,11 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Software Developer</h3>
+          <h3>Front-end Developer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Full-stack Software Developer building and maintaining large scale 
-          e-commerce websites processing millions of requests, integrating subscription payments, and Google Analytics. I also
-          analyze data for marketing teams to develop new campaign strategies. Technologies frequently used include:
-          Python, Django, JavaScript, React, TypeScript, Wordpress, PHP, HTML/CSS/Sass, PostgreSQL, AWS, Unit Testing with Pytest or Cypress, 
-          Docker, Jenkins, and more to build highly functional, scalable, and beautiful web applications. </p>
+          <p className="small-resume">Building and maintaining the front-end of Python and JavaScript e-commerce applications 
+          processing and storing real-time data. Frequently use Python, Flask, JavaScript, React, PostgreSQL, HTML, and CSS/SASS.</p>
         </ScrollAnimation>
 
       

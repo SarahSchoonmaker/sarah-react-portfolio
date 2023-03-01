@@ -9,7 +9,7 @@ export function Portfolio(){
     <Container id="portfolio">
      
 
-      <h2 className ="project2">Software Development Projects</h2>
+      <h2 className ="project2">Front-end Development Projects</h2>
 
       <div className="projects">
 
@@ -127,7 +127,7 @@ export function Portfolio(){
           </div>
         </ScrollAnimation>
 
-      <h2>Data Analyst Projects</h2>
+      <h2>Data Engineering Projects</h2>
       <div className="projects">
 
       <ScrollAnimation animateIn="flipInX">
