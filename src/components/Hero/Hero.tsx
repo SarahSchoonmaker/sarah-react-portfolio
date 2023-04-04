@@ -13,11 +13,12 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Front-end Developer</h3>
+          <h3>Data Scientist</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Building and maintaining the front-end of Python and JavaScript e-commerce applications 
-          processing and storing real-time data. Frequently use Python, Flask, JavaScript, React, PostgreSQL, HTML, and CSS/SASS.</p>
+          <p className="small-resume">Leveraging data to build and test trading strategies, implement 
+          risk management plans, and build scanners that look for anomalies in market data for potentially 
+          profitable opportunities. </p>
         </ScrollAnimation>
 
       

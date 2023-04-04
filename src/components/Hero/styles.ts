@@ -24,6 +24,7 @@ export const Container = styled.section`
     
     p.small-resume {
       margin-bottom: 5rem;
+      font-size: 2rem;
     }
   }
 
