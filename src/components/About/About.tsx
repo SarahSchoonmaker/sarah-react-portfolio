@@ -20,7 +20,7 @@ export function About(){
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
           <p>Data Scientist pursuing an MS in Computer Science with a focus in marchine learning 
             at the Stevens Insitute of Technology. In my free time, I enjoy working out at the gym, 
-            watching ice hockey (Go Rangers), investing and the financial markets, and finding new recipes to cook. 
+            watching ice hockey (Go Rangers), studying the financial markets, and finding new recipes to cook. 
             NY native currently residing in Palm Beach, FL.  
           </p>
         </ScrollAnimation>
