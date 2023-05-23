@@ -53,7 +53,7 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Anaysis of Lending Club Loan Data</h3>
+              <h3>AWS ETL Pipeline</h3>
               <p>ETL data pipeline pulling data from an API and storing it in DynamoDB with outputs sent by S3 for analysis. 
                     <a href="https://github.com/SarahSchoonmaker/AWS-ETL-Pipeline">  View Code</a>.
               
