@@ -13,12 +13,11 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Data Scientist | Quantitative Analyst | Investment Analyst</h3>
+          <h3>Data Engineer | Business Analyst</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Leveraging data to build and test trading strategies, implement 
-          risk management plans, and build scanners that identify anomalies in market data for potentially 
-          profitable short-term and long-term trading opportunities. </p>
+          <p className="small-resume">Building data pipelines with Python, AWS, Lambda, Redshift, Glue, Kinesis, DynamoDB, 
+          S3, Docker, Kafka, MongoDB, Apache Spark, and Fast API. Business analytics with SQL, PowerBI, and Python</p>
         </ScrollAnimation>
 
       
