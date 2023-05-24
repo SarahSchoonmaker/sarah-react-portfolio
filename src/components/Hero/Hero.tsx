@@ -17,7 +17,7 @@ export function Hero(){
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
           <p className="small-resume">Building data pipelines with Python, AWS, Lambda, Redshift, Glue, Kinesis, DynamoDB, 
-          S3, Docker, Kafka, MongoDB, Apache Spark, and Fast API. Business analytics with SQL, PowerBI, and Python</p>
+          S3, Docker, Kafka, MongoDB, Apache Spark, Snowflake, dbt, and Fast API. Business analytics with SQL and PowerBI</p>
         </ScrollAnimation>
 
       
