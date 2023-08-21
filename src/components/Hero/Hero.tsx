@@ -16,8 +16,8 @@ export function Hero(){
           <h3>Data Engineer | Business Analyst</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Building data pipelines with Python, AWS, Lambda, Redshift, Glue, Kinesis, DynamoDB, 
-          S3, Docker, Kafka, MongoDB, Apache Spark, Snowflake, dbt, and Fast API. Business analytics with SQL and PowerBI</p>
+          <p className="small-resume">Building data pipelines and databases with Python, Django, FastAPI, SQL, C++, AWS, CI/CD with Jenkins, Docker, 
+          and Snowflake </p>
         </ScrollAnimation>
 
       

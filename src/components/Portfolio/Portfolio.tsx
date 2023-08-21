@@ -9,7 +9,7 @@ export function Portfolio(){
     <Container id="portfolio">
      
 
-      <h2 className ="project2">Data Engineering & Business Analytics Projects</h2>
+      <h2 className ="project2">Backend Engineering & ETL Projects</h2>
 
       <div className="projects">
 
@@ -109,22 +109,22 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/SarahSchoonmaker/dbt-data-engineering" target="_blank" rel="noreferrer">
+              <a href="https://github.com/SarahSchoonmaker/fastAPI-CRUD" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="GitHub" />
               </a>
               
             </div>
             </header>
             <div className="body">
-              <h3>DBT Data Transformation</h3>
-              <p>Building schemas, models, and testing to connect with Snowflake. 
-                 <a href="https://github.com/SarahSchoonmaker/dbt-data-engineering"> View Code</a>.
+              <h3>FastAPI CRUD Application</h3>
+              <p> 
+                 <a href="https://github.com/SarahSchoonmaker/fastAPI-CRUD"> View Code</a>.
               
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Data transformation with dbt</li>
+                <li>FastAPI CRUD Application</li>
                
                 
               </ul>
@@ -137,22 +137,23 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/SarahSchoonmaker/Snowflake-Data-Engineering" target="_blank" rel="noreferrer">
+              <a href="https://github.com/SarahSchoonmaker/PyShop" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="GitHub" />
               </a>
               
             </div>
             </header>
             <div className="body">
-              <h3>Data Warehousing with Snowflake</h3>
-              <p> 
-                 <a href="https://github.com/SarahSchoonmaker/Snowflake-Data-Engineering"> View Code</a>.
+              <h3>Django E-Commerce</h3>
+              <p> PyShop is an online Python Ecommerce website built with Django, SQLite and Bootstrap. 
+                Easily deployable anywhere anytime with modules developed upon the inbuilt django admin.
+                 <a href="https://github.com/SarahSchoonmaker/PyShop"> View Code</a>.
               
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Data Warehouse with Snowflake</li>
+                <li>Django E-Commerce</li>
                
                 
               </ul>

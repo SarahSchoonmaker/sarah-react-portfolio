@@ -18,10 +18,10 @@ export function About(){
           <h2>About Me</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
-          <p>Data Engineer and Busines Analyst experienced in ETL data pipelines that 
-            stream real-time and batched data with SQL and NoSQL databases. Pursuing an MS in Computer Science. In my free time, I enjoy working out at the gym, 
+          <p>Backend Engineer experienced in ETL data pipelines that 
+            stream real-time and batched data with SQL databases. Pursuing an MS in Computer Science. In my free time, I enjoy working out at the gym, 
             watching ice hockey (Go Rangers), studying the financial markets, and finding new recipes to cook. 
-            NY native currently residing in Palm Beach, FL.  
+             
           </p>
         </ScrollAnimation>
         {/* <div className="hard-skills">
