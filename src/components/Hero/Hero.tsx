@@ -13,7 +13,7 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Data Engineer | Business Analyst</h3>
+          <h3>Backend Engineer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
           <p className="small-resume">Building data pipelines and databases with Python, Django, FastAPI, SQL, C++, AWS, CI/CD with Jenkins, Docker, 
