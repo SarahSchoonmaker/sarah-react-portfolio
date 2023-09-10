@@ -9,7 +9,7 @@ export function Portfolio(){
     <Container id="portfolio">
      
 
-      <h2 className ="project2">Backend Engineering & ETL Projects</h2>
+      <h2 className ="project2">Data Engineering ETL Projects</h2>
 
       <div className="projects">
 
@@ -86,18 +86,18 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Jupyter Notebook, PowerBI, and MySQL</h3>
-              <p>HR Employee distribution insights. 
-                 <a href="https://github.com/SarahSchoonmaker/SQL-PowerBI-HRData"> View Code</a>.
+              <h3>Dockerized ETL with AWS & TD Engine</h3>
+              <p>End-to-end pipeline from requesting weather data from an API to visualizing the results on a Dashboard
+                 <a href="https://github.com/SarahSchoonmaker/docker-etl-aws"> View Code</a>.
               
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>PowerBI</li>
-                <li>SQL</li>
-                <li>Jupyter Notebook</li>
-                <li>Business Analytics</li>
+                <li>Weather API</li>
+                <li>Docker</li>
+                <li>AWS Elastic Container registry, Lambda, EventBridge</li>
+                <li>Grafana</li>
                 
               </ul>
             </footer>
@@ -109,22 +109,23 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/SarahSchoonmaker/fastAPI-CRUD" target="_blank" rel="noreferrer">
+              <a href="https://github.com/SarahSchoonmaker/docker-etl-aws" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="GitHub" />
               </a>
               
             </div>
             </header>
             <div className="body">
-              <h3>FastAPI CRUD Application</h3>
-              <p> 
-                 <a href="https://github.com/SarahSchoonmaker/fastAPI-CRUD"> View Code</a>.
+              <h3>Data Streaming with Apache Spark & Kafka</h3>
+              <p> End-to-end pipeline using an API, Kafka, Spark, and MongoDB 
+                 <a href="https://github.com/SarahSchoonmaker/streaming-kafka-spark"> View Code</a>.
               
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>FastAPI CRUD Application</li>
+                <li>Apache Kafka & Spark</li>
+                <li>MongoDB</li>
                
                 
               </ul>
@@ -132,34 +133,7 @@ export function Portfolio(){
           </div>
         </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
-          <div className="project">
-            <header>
-            <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
-            <div className="project-links">
-              <a href="https://github.com/SarahSchoonmaker/PyShop" target="_blank" rel="noreferrer">
-                <img src={githubIcon} alt="GitHub" />
-              </a>
-              
-            </div>
-            </header>
-            <div className="body">
-              <h3>Django E-Commerce</h3>
-              <p> PyShop is an online Python Ecommerce website built with Django, SQLite and Bootstrap. 
-                Easily deployable anywhere anytime with modules developed upon the inbuilt django admin.
-                 <a href="https://github.com/SarahSchoonmaker/PyShop"> View Code</a>.
-              
-              </p>
-            </div>
-            <footer>
-              <ul className="tech-list">
-                <li>Django E-Commerce</li>
-               
-                
-              </ul>
-            </footer>
-          </div>
-        </ScrollAnimation>
+       
 
       </div>
     </Container>
