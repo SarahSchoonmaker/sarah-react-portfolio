@@ -26,7 +26,7 @@ export function About(){
            
           </p>
         </ScrollAnimation>
-        <div className="hard-skills">
+        {/* <div className="hard-skills">
 
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.1 * 1000}>
@@ -71,7 +71,7 @@ export function About(){
           </div>
 
 
-        </div>
+        </div> */}
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.6 * 1000}>

@@ -13,6 +13,7 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
+<<<<<<< HEAD
           <h3>Data Scientist</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
@@ -20,13 +21,17 @@ export function Hero(){
           of data in order to tell a story, validate ideas, identify patterns, 
           and build data-driven strategies.
           </p>
+=======
+          <h3>Data Engineer</h3>
+        </ScrollAnimation>
+        <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
+          <p className="small-resume">Building data pipelines and databases with Python, SQL, Databricks, 
+          AWS (S3, Redshift, Glue, DynamoDB, CloudWatch, Kinesis, Lambda), Docker, Apache Kafka, Grafana,
+          and Snowflake </p>
+>>>>>>> b43acda2e0180729be7b0032dd4338e501dd07dd
         </ScrollAnimation>
 
-          <ScrollAnimation animateIn="fadeInUp" delay={0.8*1000}>
-            <BrowserRouter>
-              <NavHashLink smooth to="#contato" className="button">Contact</NavHashLink>
-            </BrowserRouter>
-          </ScrollAnimation>
+      
       </div>
     
     </Container>
