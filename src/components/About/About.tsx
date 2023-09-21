@@ -19,8 +19,8 @@ export function About(){
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
           <p>Data Analyst with a background in frontend development. 
-            Pursuing an MS in Computer Science at the 
-            Stevens Insitute of Technology. In my free time, I am always learning,
+            Pursuing an MS in Computer Science with a specialization in machine learning 
+            at the Stevens Insitute of Technology. In my free time, I am always learning,
             exercising at the gym, watching ice hockey (Go Rangers), 
             studying the financial markets, 
             and finding new recipes to cook. 
