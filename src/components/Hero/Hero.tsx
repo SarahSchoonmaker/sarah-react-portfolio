@@ -18,9 +18,9 @@ export function Hero(){
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
           <p className="small-resume">I build applications that store and visualize
           large amounts of finacial market data. Frequently using Python, Flask, Django, 
-          SQL, FastApi, and CI/CD pipelines
-          AWS (S3, EC2, RDS, Lambda, DynamoDB), Docker, 
-          Jenkins, and Github actions.  
+          MySQL, SQLAlchemy, FastApi, and CI/CD pipelines
+          AWS (S3, EC2, RDS, Lambda, DynamoDB), Docker, PyTest,
+          Jenkins, React, Typescript, MaterialUI, and Github actions.  
           </p>
         </ScrollAnimation>
 
