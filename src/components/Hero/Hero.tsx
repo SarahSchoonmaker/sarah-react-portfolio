@@ -18,8 +18,8 @@ export function Hero(){
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
           <p className="small-resume">Experienced Data & Risk Analyst working with large amounts of credit and financial market 
           data to identify trends, patterns, and anomalies. Providing data-driven analysis for market and credit risk. 
-          Frequently using Python, Pandas, NumPy, Logistic Regression, Decision Trees, Data Preprocessing, MYSQL, SQLServer, AWS, Azure, 
-          and Tableau.   
+          Frequently using Python, Pandas, NumPy, MatPlotLib, SciPy, Logistic Regression, Decision Trees, Data Preprocessing, MYSQL, 
+          SQLServer, AWS, Azure, and Tableau.   
           </p>
         </ScrollAnimation>
 
