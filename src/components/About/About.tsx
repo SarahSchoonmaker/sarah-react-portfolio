@@ -18,10 +18,9 @@ export function About(){
           <h2>About Me</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
-          <p>Python Developer pursuing an MS in Computer Science at the 
-            Stevens Insitute of Technology. In my free time, I am always learning,
-            exercising at the gym, watching ice hockey (Go Rangers), 
-            studying the financial markets, 
+          <p>Data Analyst pursuing an MS in Computer Science with a Machine Learning 
+            specialization at the Stevens Insitute of Technology. In my free time, I am always learning,
+            exercising at the gym, watching ice hockey (Go Rangers), studying the financial markets, 
             and finding new recipes to cook. 
            
           </p>

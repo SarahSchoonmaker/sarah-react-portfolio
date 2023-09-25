@@ -13,14 +13,13 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Backend Python Developer</h3>
+          <h3>Data Analyst</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">I build applications that store and visualize
-          large amounts of finacial market data. Frequently using Python, Flask, Django, 
-          MySQL, SQLAlchemy, FastApi, and CI/CD pipelines
-          AWS (S3, EC2, RDS, Lambda, DynamoDB), Docker, PyTest,
-          Jenkins, React, Typescript, MaterialUI, and Github actions.  
+          <p className="small-resume">Experienced Data & Risk Analyst working with large amounts of credit and financial market 
+          data to identify trends, patterns, and anomalies. Providing data-driven analysis for market and credit risk. 
+          Frequently using Python, Pandas, NumPy, Logistic Regression, Decision Trees, Data Preprocessing, MYSQL, SQLServer, AWS, Azure, 
+          and Tableau.   
           </p>
         </ScrollAnimation>
 
