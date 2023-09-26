@@ -16,8 +16,9 @@ export function Hero(){
           <h3>Data Analyst</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Experienced Data Analyst working with large amounts of credit and financial market 
-          data to identify trends, patterns, and anomalies. Providing data-driven analysis for market and credit risk. 
+          <p className="small-resume">Experienced Data Analyst working with large amounts of lending, real estate, and financial market 
+          data to identify trends, patterns, and anomalies. Providing data-driven analysis for business and trading strategy development. 
+          
           Frequently using Python, Pandas, NumPy, MatPlotLib, SciPy, Logistic Regression, Decision Trees, Data Preprocessing, MYSQL, 
           SQLServer, AWS, Azure Data Factory, PowerBI, and Tableau. Software development experience with Python, Django, React, PostgreSQL, AWS, Docker, and
           Jenkins.  
