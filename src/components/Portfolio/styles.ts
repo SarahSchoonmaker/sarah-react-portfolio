@@ -30,7 +30,7 @@ export const Container = styled.section`
       color: #FFF;
       &:hover{
         transform: translateY(-5px);
-        background-color: var(--pink);
+        background-color: var(--blue);
       }
     }
 
