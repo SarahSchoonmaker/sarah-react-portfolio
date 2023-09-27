@@ -107,7 +107,7 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>ETL Data Pipeline</h3>
+              <h3>ETL Data Pipeline with AWS</h3>
               <p>End-to-end pipeline requesting weather data from an API and visualizing the results in 
                 Grafana<a href="https://github.com/SarahSchoonmaker/docker-etl-aws"> View Code</a>.
               
