@@ -17,11 +17,12 @@ export function Hero(){
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
           <p className="small-resume">Experienced ETL Data Engineer & Data Analyst building efficient data pipelines and working with 
-          large amounts of lending, real estate, and financial market data to identify trends, patterns, and anomalies. Providing 
-          data-driven analysis for business and trading strategy development. 
+          large amounts of lending, real estate, and financial market data. Identifying trends, patterns, and anomalies. Providing 
+          data-driven analysis for business and trading strategy development. <br></br>
+          <br></br>
           
-          Frequently using Python, Pandas, NumPy, MatPlotLib, SciPy, Java, Logistic Regression, Decision Trees, Data Preprocessing, MYSQL, 
-          PostgreSQL, AWS, Hadoop, Spark, Kafka, PowerBI, and Tableau. Software development experience with Python, Django, React, 
+          Frequently using Python, Pandas, NumPy, MatPlotLib, SciPy, Java, Scala, Logistic Regression, Decision Trees, Data Preprocessing, 
+          MYSQL, PostgreSQL, AWS, Hadoop, Spark, Kafka, PowerBI, and Tableau. Software development experience with Python, Django, React, 
           SQL, AWS, Docker, Jenkins, and Ansible.  
           </p>
         </ScrollAnimation>
