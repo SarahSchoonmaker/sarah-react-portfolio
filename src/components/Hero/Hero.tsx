@@ -22,7 +22,7 @@ export function Hero(){
           <br></br>
           
           Frequently using Python, Pandas, NumPy, MatPlotLib, SciPy, Java, Scala, Logistic Regression, Decision Trees, Data Preprocessing, 
-          MYSQL, PostgreSQL, AWS, Hadoop, Spark, Kafka, PowerBI, and Tableau. Software development experience with Python, Django, React, 
+          MySQL, PostgreSQL, AWS, Hadoop, Spark, Kafka, Airflow, PowerBI, and Tableau. Software development experience with Python, Django, React, 
           SQL, AWS, Docker, Jenkins, and Ansible.  
           </p>
         </ScrollAnimation>
