@@ -16,14 +16,14 @@ export function Hero(){
           <h3>ETL Data Engineer | Data Analyst</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Experienced ETL Data Engineer & Data Analyst building efficient data pipelines and working with 
+          <p className="small-resume">Experienced Data Analyst & ETL Data Engineer building efficient data pipelines and working with 
           large amounts of lending, real estate, and financial market data. Identifying trends, patterns, and anomalies. Providing 
           data-driven analysis for business and trading strategy development. <br></br>
           <br></br>
           
           Frequently using Python, Pandas, NumPy, MatPlotLib, SciPy, Java, Scala, Logistic Regression, Decision Trees, Data Preprocessing, 
           MySQL, PostgreSQL, AWS, Hadoop, Spark, Kafka, Airflow, PowerBI, and Tableau. Software development experience with Python, Django, React, 
-          SQL, AWS, Docker, Jenkins, and Ansible.  
+          SQL, AWS, Docker, and Jenkins.  
           </p>
         </ScrollAnimation>
 
