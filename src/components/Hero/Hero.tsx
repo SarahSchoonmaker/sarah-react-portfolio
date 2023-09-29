@@ -23,7 +23,7 @@ export function Hero(){
           
           Frequently using Python, Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, MySQL, PostgreSQL, Linear and Logistic Regressions, 
           Decision Trees, K-means Clustering, and Time Series Analysis. ETL pipelines with AWS (RDS, S3, DynamoDB, Kinesis, Glue, 
-          and Redshift), Docker, and Jenkins.  
+          and Redshift), Apache Spark, Docker, and Jenkins.  
           </p>
         </ScrollAnimation>
 
