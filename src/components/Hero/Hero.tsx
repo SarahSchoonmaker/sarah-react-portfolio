@@ -21,9 +21,9 @@ export function Hero(){
           data-driven analysis for business and trading strategy development. <br></br>
           <br></br>
           
-          Frequently using Python, Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Linear and Logistic Regressions, Decision Trees, 
-          K-means Clustering, and Time Series Analysis. ETL pipelines with AWS (RDS, S3, DynamoDB, Kinesis, Glue, and Redshift), Docker, 
-          and Jenkins.  
+          Frequently using Python, Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, MySQL, PostgreSQL, Linear and Logistic Regressions, 
+          Decision Trees, K-means Clustering, and Time Series Analysis. ETL pipelines with AWS (RDS, S3, DynamoDB, Kinesis, Glue, 
+          and Redshift), Docker, and Jenkins.  
           </p>
         </ScrollAnimation>
 
