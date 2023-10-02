@@ -13,17 +13,14 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Frontend Developer</h3>
+          <h3>Data Engineer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Experienced Frontend Developer with experience building e-commerce stores
-          at a global consumer goods and asset management industries. Strong background in finance, trading, and frontend
-          development.  <br></br>
-          <br></br>
-          
-          Frequently using Python, JavaScript/Typescript, Flask, Django, React, MySQL, Docker, Jenkins, and 
-          AWS (EC2, RDS, S3, and Lambda).
- 
+        <p>Data Engineer working with portfolio
+            managers to identify trends and build profitable strategies. 
+            Pursuing an MS in Computer Science with a Machine Learning specialization at the Stevens Insitute of Technology. 
+            In my free time, I am always learning something new, exercising at the gym, watching ice hockey (Go Rangers), 
+            studying the financial markets, and finding new recipes to cook. 
           </p>
         </ScrollAnimation>
 
