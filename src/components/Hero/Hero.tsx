@@ -13,16 +13,16 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Data Engineer</h3>
+          <h3>Frontend Developer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Experienced Data Engineer building and maintaining ETL pipelines that deliver 
-          large amounts of financial market data for teams providing 
-          data-driven analysis for business and trading strategy development. <br></br>
+          <p className="small-resume">Experienced Frontend Developer with experience building e-commerce stores
+          at a global consumer goods and asset management industries. Strong background in finance, trading, and frontend
+          development.  <br></br>
           <br></br>
           
-          Frequently using Python, Snowflake, Apache Spark, Kafka, Docker, MySQL, and 
-          AWS (EC2, ECS, EMR, RDS, S3, Kinesis, Glue, and Redshift).
+          Frequently using Python, JavaScript/Typescript, Flask, Django, React, MySQL, Docker, Jenkins, and 
+          AWS (EC2, RDS, S3, and Lambda).
  
           </p>
         </ScrollAnimation>
