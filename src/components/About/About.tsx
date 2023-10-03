@@ -18,8 +18,8 @@ export function About(){
           <h2>About Me</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
-          <p>Data Engineer with data analysis experience working with portfolio
-            managers to identify trends and build profitable strategies. 
+          <p>Data Analyst telling a story with data to manage risk, identify trends, and provide data-driven 
+            insights that help build profitable strategies. 
             Pursuing an MS in Computer Science with a Machine Learning specialization at the Stevens Insitute of Technology. 
             In my free time, I am always learning something new, exercising at the gym, watching ice hockey (Go Rangers), 
             studying the financial markets, and finding new recipes to cook. 

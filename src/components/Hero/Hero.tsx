@@ -13,11 +13,11 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Data Engineer</h3>
+          <h3>Data Analyst</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-        <p>Data Engineer working with portfolio
-            managers to identify trends and build profitable strategies. 
+        <p>Data Analyst working with commercial lending and portfolio
+            managers to manage risk, identify trends, and build profitable strategies. 
             Pursuing an MS in Computer Science with a Machine Learning specialization at the Stevens Insitute of Technology. 
             In my free time, I am always learning something new, exercising at the gym, watching ice hockey (Go Rangers), 
             studying the financial markets, and finding new recipes to cook. 
