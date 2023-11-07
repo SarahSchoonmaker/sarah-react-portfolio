@@ -100,7 +100,7 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/SarahSchoonmaker/Spark-Streaming" target="_blank" rel="noreferrer">
+              <a href="https://github.com/SarahSchoonmaker/django-twitter-clone" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="GitHub" />
               </a>
               
@@ -109,16 +109,16 @@ export function Portfolio(){
             <div className="body">
               <h3>Django Twitter Clone</h3>
               <p>Users can register, login, have their own feed, follow friends, like posts, and send direct messages.
-                 <a href="https://github.com/SarahSchoonmaker/Spark-Streaming"> View Code</a>.
+                 <a href="https://github.com/SarahSchoonmaker/django-twitter-clone"> View Code</a>.
               
               </p>
             </div>
             <footer>
               <ul className="tech-list"> 
               <li>Python</li>
-              <li>AWS (ECS, Lambda)</li>
-              <li>Docker</li>
-              <li>Grafana</li>       
+              <li>Django</li>
+              <li>Vue.js</li>
+                   
               </ul>
             </footer>
           </div>
@@ -130,24 +130,23 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/SarahSchoonmaker/Snowflake-Data-Engineering" target="_blank" rel="noreferrer">
+              <a href="https://github.com/SarahSchoonmaker/django-react-ecommerce" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="GitHub" />
               </a>
               
             </div>
             </header>
             <div className="body">
-              <h3>Snowflake</h3>
-              <p>Creating a warehouse, stage, and tables for import into Tableau, PowerBI, Databricks, etc..
-                <a href="https://github.com/SarahSchoonmaker/Snowflake-Data-Engineering"> View Code</a>.
+              <h3>Django E-Commerce Store</h3>
+              <p>Django e-commerce store with React.
+                <a href="https://github.com/SarahSchoonmaker/django-react-ecommerce"> View Code</a>.
               
               </p>
             </div>
             <footer>
               <ul className="tech-list"> 
-              <li>Snowflake</li>
-              <li>AWS S3</li>
-              <li>SQL</li>
+              <li>Django</li>
+              <li>React</li>
           
               </ul>
             </footer>
