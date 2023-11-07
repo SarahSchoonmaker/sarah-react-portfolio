@@ -31,7 +31,7 @@ export function Portfolio(){
           <footer>
             <ul className="tech-list">
               <li>Python</li>
-              <li>S3, RDS, Glue</li>
+              <li>AWS S3, RDS, Glue</li>
               
             </ul>
           </footer>
@@ -146,7 +146,7 @@ export function Portfolio(){
             <footer>
               <ul className="tech-list"> 
               <li>Django</li>
-              <li>React</li>
+              <li>React.js</li>
           
               </ul>
             </footer>
