@@ -18,11 +18,12 @@ export function About(){
           <h2>About Me</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
-          <p>Data Analyst telling a story with data to manage risk, identify trends, and provide data-driven 
-            insights that help build profitable strategies. 
-            Pursuing an MS in Computer Science with a Machine Learning specialization at the Stevens Insitute of Technology. 
-            In my free time, I am always learning something new, exercising at the gym, watching ice hockey (Go Rangers), 
-            studying the financial markets, and finding new recipes to cook. 
+          <p>Backend Python Developer building efficient and secure 
+            databases, Rest APIs, and data pipelines for web applications used by traders and 
+            business analytics teams.   
+            Pursuing an MS in Computer Science at the Stevens Insitute of Technology. 
+            In my free time, I am always learning something new about technology and the financial markets, exercising at the gym, 
+            watching ice hockey (Go Rangers), and finding new recipes to cook. 
           </p>
         </ScrollAnimation>
         
