@@ -78,8 +78,9 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Django E-Commerce Store</h3>
-              <p>Django e-commerce store where customers can search for products, add, edit, and delete products in the shopping cart.
+              <h3>Docker ETL with AWS </h3>
+              <p>End-to-end pipeline requesting weather data from an API and visualizing the results on a Dashboard. 
+                I use the weather api, Docker, AWS Elastic container registry, AWS Lambda, AWS EventBridge and Grafana as the dashboard solution
                 <a href="https://github.com/SarahSchoonmaker/docker-etl-aws"> View Code</a>.
               
               </p>
@@ -87,8 +88,8 @@ export function Portfolio(){
             <footer>
               <ul className="tech-list"> 
               <li>Python</li>
-              <li>Django</li>
-              <li>Pagination & Search Functionality</li>
+              <li>AWS Lambda, EventBridge, ECR</li>
+              <li>Grafana</li>
                    
               </ul>
             </footer>
