@@ -19,7 +19,8 @@ export function About(){
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
           <p>Backend Python Developer building efficient and secure 
-            databases, Rest APIs, and data pipelines for web applications used by traders and 
+            databases, Rest APIs, and data pipelines for web applications used by quant
+            research, data science, and 
             business analytics teams.   
             Pursuing an MS in Computer Science at the Stevens Insitute of Technology. 
             In my free time, I am always learning something new about technology and the financial markets, exercising at the gym, 

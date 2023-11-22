@@ -17,10 +17,12 @@ export function Hero(){
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
         <p>Backend Python Developer building databases, APIs, and data pipelines for portfolio
-            managers and business analytics teams. Providing efficient and reliable data for 
+            managers, quant research, and business analytics teams. 
+            Providing efficient and reliable data for 
             generating performance reports and analyzing financial data for strategy building. 
-            Frequently using Python, Django, PostgreSQL/SQL Server, AWS (S3, EC2, Lambda, Glue, Redshift), 
-            Snowflake, Docker, and Jenkins. 
+            Frequently using Python, Flask, Django, PostgreSQL, 
+            AWS (S3, Lambda, Glue, DynamoDB, RDS, Kafka, SNS), 
+            CI/CD with Kubernetes and Docker. 
            
           </p>
         </ScrollAnimation>
