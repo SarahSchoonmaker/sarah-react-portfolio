@@ -13,14 +13,14 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Backend Python Developer</h3>
+          <h3>Data Engineer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-        <p>Backend Python Developer building databases, APIs, and data pipelines for portfolio
+        <p> Building data pipelines for portfolio
             managers, quant research, and business analytics teams. 
             Providing efficient and reliable data for 
             generating performance reports and analyzing financial data for strategy building. 
-            Frequently using Python, Flask, Django, PostgreSQL, 
+            Frequently using Python, PySpark, Databricks, and 
             AWS (S3, Lambda, Glue, DynamoDB, RDS, Kafka, SNS), 
             CI/CD with Kubernetes and Docker. 
            
