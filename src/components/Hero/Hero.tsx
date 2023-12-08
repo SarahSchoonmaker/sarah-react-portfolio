@@ -16,12 +16,12 @@ export function Hero(){
           <h3>Software Engineer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-        <p> Over 3  years of experience building python applications, visualization dashboards, and Rest APIs for 
-          quantitative research and business analyst teams to store and visualize data. 
-          Frequently working with Python, Flask, PostgreSQL, Rest APIs, AWS (S3, EC2, Lambda, DynamoDB, SQS), React.js,
-          Node.js, and CI/CD with Jenkins and Docker. <br></br>
+        <p> Backend Developer always learning, automating, and optimizing solutions.  
+          Frequently working with Flask, Rest APIs/Fast API, PostgreSQL, AWS (S3, EC2, Lambda, SQS), and machine learning model 
+          deployment using Flask, React, and NodeJS. Additional experience in application support for web applications, 
+          Linux system administration, and data analytics with Python, Pandas, Numpy, Matplotlib, Seaborn. <br></br>
           
-          Available for on-site roles in NY/NJ
+          Available for on-site roles in NY/NJ.
  
            
           </p>
