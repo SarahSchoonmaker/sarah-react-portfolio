@@ -13,16 +13,16 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Data Engineer</h3>
+          <h3>Software Engineer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-        <p> Building data pipelines for portfolio
-            managers, quant research, and business analytics teams. 
-            Providing efficient and reliable data for 
-            generating performance reports and analyzing financial data for strategy building. 
-            Frequently using Python, PySpark, Databricks, and 
-            AWS (S3, Lambda, Glue, DynamoDB, RDS, Kafka, SNS), 
-            CI/CD with Kubernetes and Docker. 
+        <p> Over 3  years of experience building python applications, visualization dashboards, and Rest APIs for 
+          quantitative research and business analyst teams to store and visualize data. 
+          Frequently working with Python, Flask, PostgreSQL, Rest APIs, AWS (S3, EC2, Lambda, DynamoDB, SQS), React.js,
+          Node.js, and CI/CD with Jenkins and Docker. <br></br>
+          
+          Available for on-site roles in NY/NJ
+ 
            
           </p>
         </ScrollAnimation>
