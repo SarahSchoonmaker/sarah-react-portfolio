@@ -79,7 +79,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body{
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     -webkit-font-smoothing: antialiased;
     background-color: var(--black);
     color: #FFFF;
