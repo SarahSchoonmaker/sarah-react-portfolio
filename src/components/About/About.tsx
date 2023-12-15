@@ -18,7 +18,8 @@ export function About(){
           <h2>About Me</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
-          <p>Software Developer with previous experience in equity trading and data analytics to discover trends administration
+          <p>Software Developer with previous experience in equity trading and 
+            data analytics to discover trends and
             anomalies in financial market data.   
             Pursuing an MS in Computer Science at the Stevens Insitute of Technology. 
             In my free time, I am always learning something new about technology, the financial markets,

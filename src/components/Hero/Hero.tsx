@@ -21,7 +21,6 @@ export function Hero(){
           deployment using Flask, React, and NodeJS. Additional experience in application support for web applications, 
           Linux system administration, and data analytics with Python, Pandas, Numpy, Matplotlib, Seaborn. <br></br><br></br>
           
-          Available for on-site roles in NY/NJ.
  
            
           </p>
