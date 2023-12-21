@@ -18,8 +18,8 @@ export function Hero(){
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
         <p> Backend Developer always learning, automating, and optimizing solutions.  
           Frequently working with Flask, Rest APIs/Fast API, PostgreSQL, AWS (S3, EC2, Lambda, SQS), and machine learning model 
-          deployment using Flask, React, and NodeJS. Additional experience in application support for web applications, 
-          Linux system administration, and data analytics with Python, Pandas, Numpy, Matplotlib, Seaborn. <br></br><br></br>
+          deployment using Flask, React, and NodeJS. Additional experience in application support for web applications 
+          and data analytics with Python, Pandas, Numpy, Matplotlib, Seaborn. <br></br><br></br>
           
  
            
