@@ -16,7 +16,7 @@ export function Hero(){
           <h3>Software Engineer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-        <p> Always learning, automating, and optimizing solutions.  
+        <p>Always learning, automating, and optimizing solutions.  
           Frequently working with Python, Flask, Rest APIs/Fast API, PostgreSQL, AWS, and machine learning model 
           deployment. Additional experience in application support for web applications 
           and data analytics with Python, Pandas, Numpy, Matplotlib, Seaborn. <br></br><br></br>

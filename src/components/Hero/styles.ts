@@ -39,7 +39,9 @@ export const Container = styled.section`
     }
   }
 
-
+  @media(min-width:961px){
+    width:60%;
+  }
   @media(max-width: 960px){
     display: block;
     margin-top: 15%;
