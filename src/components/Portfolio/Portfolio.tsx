@@ -43,25 +43,26 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/SarahSchoonmaker/docker-etl-aws" target="_blank" rel="noreferrer">
+              <a href="https://github.com/SarahSchoonmaker/python-fastapi" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="GitHub" />
               </a>
               
             </div>
             </header>
             <div className="body">
-              <h3>Docker ETL with AWS </h3>
-              <p>End-to-end pipeline requesting weather data from an API and visualizing the results on a Dashboard. 
-                I use the weather api, Docker, AWS Elastic container registry, AWS Lambda, AWS EventBridge and Grafana as the dashboard solution
-                <a href="https://github.com/SarahSchoonmaker/docker-etl-aws"> View Code</a>.
+              <h3>RESTful API with Python</h3>
+              <p>CRUD RESTful API with Python, FastAPI, SQLAlchemy ORM, Pydantic, 
+                Alembic, PostgreSQL, and Docker-compose to perform the basic Create/Read/Update/Delete operations against a database.
+                <a href="https://github.com/SarahSchoonmaker/python-fastapi"> View Code</a>.
               
               </p>
             </div>
             <footer>
               <ul className="tech-list"> 
               <li>Python</li>
-              <li>AWS Lambda, EventBridge, ECR</li>
-              <li>Grafana</li>
+              <li>FastAPI</li>
+              <li>SQLAlchemy</li>
+              <li>Docker Compose</li>
                    
               </ul>
             </footer>
@@ -73,23 +74,24 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/SarahSchoonmaker/django-react-ecommerce" target="_blank" rel="noreferrer">
+              <a href="https://github.com/SarahSchoonmaker/youtube-sentiment-analysis" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="GitHub" />
               </a>
               
             </div>
             </header>
             <div className="body">
-              <h3>Django E-Commerce Store</h3>
-              <p>Django e-commerce store with React.
-                <a href="https://github.com/SarahSchoonmaker/django-react-ecommerce"> View Code</a>.
+              <h3>YouTube Sentiment Analysis</h3>
+              <p>Using Pandas to analyze sentiment of comments on YouTube. 
+                <a href="https://github.com/SarahSchoonmaker/youtube-sentiment-analysis"> View Code</a>.
               
               </p>
             </div>
             <footer>
               <ul className="tech-list"> 
-              <li>Django</li>
-              <li>React.js</li>
+              <li>Python</li>
+              <li>Pandas</li>
+              <li>MatplotLib</li>
           
               </ul>
             </footer>
@@ -101,22 +103,23 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/SarahSchoonmaker/SQL-PowerBI-HRData" target="_blank" rel="noreferrer">
+              <a href="https://github.com/SarahSchoonmaker/CI-CD-Jenkins-Flask" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="GitHub" />
               </a>
               
             </div>
             </header>
             <div className="body">
-              <h3>SQL & PowerBI</h3>
-              <p>SQL Analysis of employee data<a href="https://github.com/SarahSchoonmaker/SQL-PowerBI-HRData"> View Code</a>.
+              <h3>CI/CD Template with Flask, Docker, and Jenkins</h3>
+              <p>CI/CD template for automatic build and deployment to AWS EC2 and Dockerhub registry.<a href="https://github.com/SarahSchoonmaker/CI-CD-Jenkins-Flask"> View Code</a>.
               
               </p>
             </div>
             <footer>
               <ul className="tech-list"> 
-              <li>MySQL</li>
-              <li>PowerBI</li>
+              <li>Flask</li>
+              <li>Docker</li>
+              <li>Jenkins</li>
                  
               </ul>
             </footer>
