@@ -19,7 +19,7 @@ export function Hero(){
         <p>Always learning, automating, and optimizing solutions.  
           Frequently working with Python, Flask, Rest APIs/Fast API, PostgreSQL, AWS, and machine learning model 
           deployment. Additional experience in application support for web applications 
-          and data analytics with Python, Pandas, Numpy, Matplotlib, Seaborn. <br></br><br></br>
+          and data analytics with Python, Pandas, Numpy, Matplotlib, Seaborn. 
           
  
            
