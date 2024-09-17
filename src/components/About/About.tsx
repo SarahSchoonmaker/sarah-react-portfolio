@@ -1,3 +1,4 @@
+import React from 'react'; 
 import { Container } from "./styles";
 import Sarah from "../../assets/SarahImg.jpg"
 import cssIcon from "../../assets/css-icon.svg";
@@ -18,10 +19,9 @@ export function About(){
           <h2>About Me</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
-          <p>Software Engineer with previous experience in equity trading and 
+          <p>Software Engineer with previous experience in equity trading utilizing 
             data analytics to discover trends and
-            anomalies in financial market data.   
-            Pursuing an MS in Computer Science at the Stevens Insitute of Technology. 
+            anomalies in financial market data.    
             In my free time, I am always learning something new about technology, the financial markets,
             entrepreneurship, exercising at the gym,
             watching ice hockey (Go Rangers), and finding new recipes to cook. 
