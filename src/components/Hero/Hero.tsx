@@ -1,7 +1,9 @@
 import { BrowserRouter } from "react-router-dom"
 import { Container } from "./styles"
 import ScrollAnimation from "react-animate-on-scroll"
+import React from 'react';
 import { NavHashLink } from "react-router-hash-link"
+
 export function Hero(){
   return(
     <Container id="home">
@@ -13,13 +15,12 @@ export function Hero(){
           <h1>Sarah Schoonmaker</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Software Engineer</h3>
+          <h3>Data Engineer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
         <p>Always learning, automating, and optimizing solutions.  
-          Frequently working with Python, Flask, Rest APIs/Fast API, PostgreSQL, AWS, and machine learning model 
-          deployment. Additional experience in application support for web applications 
-          and data analytics with Python, Pandas, Numpy, Matplotlib, Seaborn. 
+          Frequently working with Python, Flask, Rest APIs/Fast API, PostgreSQL, ETL/ELT pipelies, Jenkins, Docker, 
+          and AWS (Redshift, Glue, SNS, Kinesis, S3, EC2, Lambda). 
           
  
            

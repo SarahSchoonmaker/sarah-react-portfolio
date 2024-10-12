@@ -4,6 +4,7 @@ import { toast, ToastContainer } from 'react-toastify'
 // import ReCAPTCHA from 'react-google-recaptcha'
 import { useEffect, useState } from 'react'
 import validator from 'validator'
+import React from 'react';
 
 export function Form() {
   const [state, handleSubmit] = useForm('myyozglw')

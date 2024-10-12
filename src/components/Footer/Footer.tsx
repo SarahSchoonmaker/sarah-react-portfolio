@@ -1,4 +1,5 @@
 import { Container } from './styles'
+import React from 'react';
 
 import reactIcon from '../../assets/react-icon.svg'
 import linkedinIcon from '../../assets/linkedin.png'
