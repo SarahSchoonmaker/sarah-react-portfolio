@@ -60,7 +60,6 @@ export function Portfolio(){
               <p>CRUD RESTful API with Python, FastAPI, SQLAlchemy ORM, Pydantic, 
                 Alembic, PostgreSQL, and Docker-compose to perform the basic Create/Read/Update/Delete operations against a database.
                 <a href="https://github.com/SarahSchoonmaker/python-fastapi"> View Code</a>.
-              
               </p>
             </div>
             <footer>
