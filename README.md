@@ -1,5 +1,6 @@
 # Sarah's Portfolio
 
+
 ## Technologies Used:
 - React
 - Typescript
