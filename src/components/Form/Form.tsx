@@ -24,14 +24,15 @@ export function Form() {
   useEffect(() => {
     if (state.succeeded) {
       toast.success('Email Sent Successfully!', {
-        position: toast.POSITION.BOTTOM_LEFT,
+        position: "bottom-left", // Updated here
         pauseOnFocusLoss: false,
         closeOnClick: true,
         hideProgressBar: false,
         toastId: 'succeeded',
-      })
+      });
     }
-  })
+  });
+  
   if (state.succeeded) {
     return (
       <ContainerSucces>
