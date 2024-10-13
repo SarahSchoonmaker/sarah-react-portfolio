@@ -19,7 +19,7 @@ export function Hero(){
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
         <p>Always learning, automating, and optimizing solutions.  
-          Frequently working with Python, Flask, Rest APIs/Fast API, PostgreSQL, ETL/ELT pipelies, Jenkins, Docker, 
+          Frequently working with Python, Flask, Rest APIs/Fast API, PostgreSQL, ETL/ELT pipelines, Jenkins, Docker, 
           and AWS (Redshift, Glue, SNS, Kinesis, S3, EC2, Lambda). 
           
  
