@@ -5,4 +5,3 @@
 - Typescript
 - Styled Components
 
-# frontend-portfolio
