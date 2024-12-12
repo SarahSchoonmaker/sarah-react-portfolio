@@ -22,10 +22,8 @@ export function Hero() {
             Building enterprise-grade financial technology solutions from
             engaging user interfaces to architecting scalable backend systems. I
             develop intuitive and pleasing to users financial dashboards and
-            cross-platform applications that deliver real-time data. My backend
-            implementations leverage Node.js and PostgreSQL to handle complex
-            financial operations and secure data management, all deployed on AWS
-            infrastructure for optimal performance and reliability.
+            cross-platform applications that deliver real-time data. Java,
+            Python, JavaScript, PostgreSQL, and AWS.
           </p>
         </ScrollAnimation>
       </div>
