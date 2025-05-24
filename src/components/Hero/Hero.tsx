@@ -17,9 +17,10 @@ export function Hero() {
         </FadeIn>
         <FadeIn delay={600}>
           <p>
-            Building enterprise-grade financial technology solutions from
-            engaging user interfaces to architecting scalable backend systems.
-            Java, Python, JavaScript, PostgreSQL, and AWS.
+            Building enterprise-grade applications with engaging user interfaces and features serving millions of customers
+            across the financial technology and e-commerce industries. Frequently working with 
+            Python, React, Next.js, Node.js, Express, MongoDB, JavaScript, PostgreSQL, 
+            Unit Testing, and AWS.
           </p>
         </FadeIn>
       </div>
