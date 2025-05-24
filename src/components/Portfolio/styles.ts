@@ -69,6 +69,22 @@ export const Container = styled.section`
         }
       }
 
+      .project-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+
+  img {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  }
+}
+
+
       footer{
         margin-top: auto;
         .tech-list{
