@@ -9,8 +9,8 @@ export const Container = styled.section`
   gap: 8rem;
   background: rgba(0,0,0,0);
   .hero-text{
-    & > p{
-      font-size: 1.9rem;
+    p{
+      font-size: 2.5rem;
     }
     h1{
       font-size: 7rem;
@@ -19,12 +19,13 @@ export const Container = styled.section`
     h3{
       color:var(--green);
       margin: 1rem 0;
+      font-size:2.5rem;
     }
 
     
     p.small-resume {
       margin-bottom: 5rem;
-      font-size: 2rem;
+      font-size: 2.5rem;
     }
   }
 

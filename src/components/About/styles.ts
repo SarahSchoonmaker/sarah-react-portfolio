@@ -35,7 +35,7 @@ export const Container = styled.section`
   }
 
   p{
-    font-size: 1.8rem;
+    font-size: 2.5rem;
     letter-spacing: 0.1rem;
     font-weight: 500;
   }
