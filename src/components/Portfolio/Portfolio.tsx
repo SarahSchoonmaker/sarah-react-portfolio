@@ -20,15 +20,16 @@ const projects = [
     tech: ["React", "Next.js", "MongoDB"],
     github: "https://github.com/SarahSchoonmaker/pizza-shop-react",
     image: require("../../assets/pizza.png"),
-  }
-  // {
-  //   title: "Spring Boot Pet Database",
-  //   description:
-  //     "This database allows users to create and read owners and veterinarians.",
-  //   tech: ["Java 17", "Spring Boot"],
-  //   github: "https://github.com/SarahSchoonmaker/Spring-Pet-Clinic",
-  //   image: require("../../assets/springpetclinic.png"),
-  // },
+  },
+  {
+    title: "CoreCircle",
+    description:
+      `Matches people with core values and life stage providing an easier way to connect 
+      with like-minded people.`,
+    tech: ["React", "Next.js", "MongoDB"],
+    github: "https://github.com/SarahSchoonmaker/corecircle.git",
+    image: require("../../assets/corecircle.png"),
+  },
 ];
 
 export function Portfolio() {
