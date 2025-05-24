@@ -13,7 +13,7 @@ export function Hero() {
           <h1>Sarah Schoonmaker</h1>
         </FadeIn>
         <FadeIn delay={400}>
-          <h3>Software Developer</h3>
+          <h3>Frontend Engineer</h3>
         </FadeIn>
         <FadeIn delay={600}>
           <p>
