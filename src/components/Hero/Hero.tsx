@@ -13,14 +13,15 @@ export function Hero() {
           <h1>Sarah Schoonmaker</h1>
         </FadeIn>
         <FadeIn delay={400}>
-          <h3>Frontend Engineer</h3>
+          <h3>Software Engineer</h3>
         </FadeIn>
         <FadeIn delay={600}>
           <p>
-            Building enterprise-grade applications with engaging user interfaces and features serving millions of customers
-            across the financial technology and e-commerce industries. Frequently working with 
-            Python, React, Next.js, Node.js, Express, MongoDB, JavaScript, PostgreSQL, 
-            Unit Testing, and AWS.
+            Building enterprise-grade applications with engaging user interfaces
+            and features serving millions of customers across the financial
+            technology and e-commerce industries. Frequently working with
+            Python, Data Analytics, Machine Learning, React, Next.js, Node.js,
+            Express, MongoDB, JavaScript, PostgreSQL, Unit Testing, and AWS.
           </p>
         </FadeIn>
       </div>

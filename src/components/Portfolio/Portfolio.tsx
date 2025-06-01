@@ -23,12 +23,25 @@ const projects = [
   },
   {
     title: "CoreCircle",
-    description:
-      `Matches people with core values and life stage providing an easier way to connect 
+    description: `Matches people with core values and life stage providing an easier way to connect 
       with like-minded people.`,
     tech: ["React", "Next.js", "MongoDB"],
     github: "https://github.com/SarahSchoonmaker/corecircle.git",
     image: require("../../assets/corecircle.png"),
+  },
+  {
+    title: "Maritime Vessel Traffic",
+    description: `A Python-based platform for analyzing and predicting maritime trade route disruptions using geospatial data, machine learning, and database-driven vessel tracking.`,
+    tech: [
+      "Python",
+      "GeoPandas",
+      "Folium",
+      "Scikit-learn",
+      "Pandas",
+      "SQLAlchemy",
+    ],
+    github: "https://github.com/SarahSchoonmaker/maritime-geospatial-analyzer",
+    image: require("public/results.png"),
   },
 ];
 

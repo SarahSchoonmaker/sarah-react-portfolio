@@ -21,8 +21,8 @@ export function About() {
           <p>
             Software Developer with previous experience in equity trading
             utilizing data analytics to discover trends and anomalies in
-            financial market data. In my free time, I am always learning
-            something new about technology, the financial markets,
+            financial market and e-commerce. In my free time, I am always
+            learning something new about technology, the financial markets,
             entrepreneurship, exercising at the gym, watching ice hockey (Go
             Rangers), and finding new recipes to cook.
           </p>
