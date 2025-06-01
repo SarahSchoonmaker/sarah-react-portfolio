@@ -22,12 +22,12 @@ const projects = [
     image: require("../../assets/pizza.png"),
   },
   {
-    title: "CoreCircle",
-    description: `Matches people with core values and life stage providing an easier way to connect 
-      with like-minded people.`,
-    tech: ["React", "Next.js", "MongoDB"],
-    github: "https://github.com/SarahSchoonmaker/corecircle.git",
-    image: require("../../assets/corecircle.png"),
+    title: "GDPR Compliance Geographic Monitor ",
+    description: `Analyzed 100K+ demo data as Amazon employee data access patterns for EU merchant data, detecting cross-border
+GDPR violations with real-time geographic monitoring`,
+    tech: ["Python (GeoPandas, Folium, Scikit-learn) with SQLite"],
+    github: "https://github.com/SarahSchoonmaker/compliance-geospatial-analysis",
+
   },
   {
     title: "Maritime Vessel Traffic",
@@ -96,9 +96,11 @@ export function Portfolio() {
                     <li key={i}>{tech}</li>
                   ))}
                 </ul>
-                <div className="project-image">
-                  <img src={project.image} alt={project.title} />
-                </div>
+                {project.image && (
+                  <div className="project-image">
+                    <img src={project.image} alt={project.title} />
+                  </div>
+                )}
               </footer>
             </div>
           </ScrollAnimation>

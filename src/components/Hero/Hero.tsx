@@ -20,7 +20,7 @@ export function Hero() {
             Building enterprise-grade applications with engaging user interfaces
             and features serving millions of customers across the financial
             technology and e-commerce industries. Frequently working with
-            Python, Data Analytics, Machine Learning, React, Next.js, Node.js,
+            Python, Flask, Data Analytics, Machine Learning, React, Node.js, FastAPI,
             Express, MongoDB, JavaScript, PostgreSQL, Unit Testing, and AWS.
           </p>
         </FadeIn>
