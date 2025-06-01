@@ -41,7 +41,7 @@ const projects = [
       "SQLAlchemy",
     ],
     github: "https://github.com/SarahSchoonmaker/maritime-geospatial-analyzer",
-    image: require("public/results.png"),
+    image: require("../../assets/results.png"),
   },
 ];
 
