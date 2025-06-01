@@ -27,6 +27,7 @@ const projects = [
 GDPR violations with real-time geographic monitoring`,
     tech: ["Python (GeoPandas, Folium, Scikit-learn) with SQLite"],
     github: "https://github.com/SarahSchoonmaker/compliance-geospatial-analysis",
+    image: require("../../assets/compliance.png"),
 
   },
   {
